@@ -1,0 +1,28 @@
+1. Napisz program, który odczytuje imię i sprawdza czy jest ono palindromem.
+
+2. Napisz program, który odczytuje napis i wypisuje go wspak.
+
+3. Napisz program, który sprawdza czy dany odczytany napis jest w poprawnym formacie kodu pocztowego tzn: 87-630 jest w formacie poprawnym, natomiast 8aa-999 jest niepoprawnym kodem pocztowym ( dwie pierwsze cyfry następni myślnik, następnie trzy cyfry).
+
+4. Stwórz program, który odczytuję dany napis i wypisuje ile razy w danym napisie występują małe litery. Przykładowo dla napisu: aAaaBssk wynikiem powinno być 6 (małe a występuje 3 razy, s występuje 2 razy, k występuje 1 raz).
+
+5. W tablicy jednowymiarowej znajdź liczbę, która występuje najczęściej.
+
+6. Niech dany będzie n-elementowy ciąg liczb całkowitych an. Zadaniem Twojego programu będzie sprawdzenie czy w ciągu jakakolwiek liczba występuje co najmniej trzykrotnie.
+
+7. Zuzia lubi zadania matematyczne. Ostatnio dowiedziała się, że  X mod Y to reszta z dzielenia X przez Y. Poprosiła Antka, żeby jej podał 15 liczb, a ona szybko obliczy, ile jest różnych reszt z dzielenia tych liczb przez 37. Pomóż Zuzi wykonać zadanie.
+
+8. https://codility.com/programmers/lessons/2-arrays/cyclic_rotation/
+
+9. https://codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
+
+10. Napisz funkcję, która wyznacza sumę cyfr zadanej liczby całkowitej
+
+11. Napisz funkcję, która stwierdza, czy zadana jako parametr liczba całkowita jest liczbą pierwszą.
+
+12. Napisz funkcję, która odczytuje jako argument liczbę i wypisuje liczbę dzielników
+
+13. Skorzystaj z wcześniejszej funkcji (zad.11.) do znalezienia liczby od 2 do 10000, która ma największą liczbę dzielników
+
+14. Napisz funkcję, która odczytuje 2 liczby i zwraca NWD (a,b).
+
